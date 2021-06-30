@@ -1,11 +1,30 @@
+body{
+    background-image: url("https://www.cucinare.tv/wp-content/uploads/2019/10/S%C3%A1ndwich-de-miga.jpg");
+}
+#contenedor{
+    height: 800px;
+    display: -webkit-flex;
+    display:         flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
 #thirdDiv {
-    background-color: rgb(43, 43, 43);
-    height: 600px;
+    border:25px rgb(236, 58, 207);
+    background-color: rgb(220, 247, 68);
+    height: 500px;
     width: 500px;
     padding: 50px;
-    border:25px chocolate;
+    
 }
 #spanId {
-    font-size: 18px;
-    margin: 50px;
+    font-size:18px;
+    margin:5px;
+}
+a {
+    color: rgb(219, 95, 95);
+}
+.divClass {
+    color: rgb(0, 0, 0);
 }
