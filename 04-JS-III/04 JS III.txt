@@ -1,0 +1,4 @@
+Arrays: es una lista de elementos de cualquier tipo, incluso puede tener una funcion u otra lista dentro de si misma.
+Puede declararse vacia o con elementos (esta declaracion se dice que es de forma literal). Tiene como caracteristica que los elementos que la componen se guardan 
+"enumerados" por un indice. El primer elemento se encuentra en la posicion 0, el segundo en la 1... el ultimo en la posicion length - 1.
+Pasando en limpio un array en JS es un tipo de dato estructurado, heterogeneo y de acceso directo a traves de un indice. 

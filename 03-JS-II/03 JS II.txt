@@ -1,0 +1,10 @@
+Bucle for: es una estructura de control, al igual que el if, modifica el flujo de ejecucion del programa. En este caso, se ejecuta una cantidad de veces fija el bloque
+de codigo que contiene el for. En su declaracion se definen 3 cosas: se inicializa la variable que va a funcionar de indice, se determina la condicion de corte del for
+y se define el incremento de la variable indice (en general se incrementa en uno).
+Tambien vimos la palabra clave "break". En el ejemplo estaba dentro de un if, que cuando se cumplia su condicion, se ejecutaba el break y por lo tanto se salia del bucle.
+
+Operadores logicos (&&, ||, !): el AND y el OR sirven para poder tener mas de una condicion (concatenar condiciones) en la declaracion de una estructura de control.
+Por ejemplo: "si (contador < 1) y (ok === false), entonces..." en este caso tiene que ser verdaderas las dos condiciones para que se ejecute el bloque de codigo.
+Otro ejemplo: "si (contador < 1) o (ok === false), entonces..." en este caso con que una de las condiciones sea verdadera ya alcanza para que se ejecute el codigo.
+El operador NOT(!), sirve para negar una condicion, usando el ejemplo anterior..."si (contador < 1) y (!ok), entonces..." En este caso se pregunta si la variable logica
+"ok" es "no verdadera" o lo que es lo mismo, es falsa.

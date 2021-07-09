@@ -1,0 +1,18 @@
+Varibles: posibilita guardar datos a los que mas tarde puedo acceder y procesar (modificar,utilizar, etc). Se accede a una variable a traves de su identificador.
+
+Strings: es uno de los tipos de datos que puede guardar una variable. Se caracterizan por estar compuestos de caracteres(letras, numeros, simbolos). Tambien se les
+llama cadena de caracteres. Van entre comillas ("" o '').
+
+Funciones(argumentos, return): una funcion es un bloque de codigo que, una vez declarado, puede ser invocado por su nombre. Es reusable. 
+Se llaman argumentos a los datos que puede recibir cuando es invocada. Estos argumentos se usan como variables locales a la funcion.
+En el caso de que se quiera devolver algo a traves de una funcion, hay que hacerlo a traves de la palabra clave "return". Una vez que se ejecuta "el return", la 
+funcion corta su ejecucion.
+
+Declaraciones if: el if es una estructura de control que posee una condicion, en el caso de ser verdadera esta condicion, se ejecuta una vez el bloque de codigo que 
+contiene entre sus {}. "El if" puede estar seguido de su "else {}". En el caso de que la condicion del if sea falsa, pasa a ejecutarse el bloque de codigo del else. 
+Tambien esta la posibilidad del "else if".
+
+Valores booleanos: es un tipo de dato que toma uno de dos valores posibles: verdadero o falso.
+
+
+ 

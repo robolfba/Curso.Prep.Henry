@@ -1,0 +1,12 @@
+Objetos: es una coleccion de propiedades. Sirve para representar algo mas complejo que un numero o una palabra. Por ejemplo: de un objeto "figura geometrica" se podria representar
+la dimension de sus lados, su color y las caracteristicas que tenga. A esto se le llama atributo. Tambien podria representarse el calculo de su area, el de su perimetro, etc.
+A esto se le llama comportamiento.
+
+Propiedades: son las caracteristicas(atributos) y los comportamientos(funciones) que posee un objeto. Es una asociacion entre un nombre (clave) y un valor.
+
+Métodos: se llama metodo a las funciones guardadas en un objeto.
+
+Bucle for…in: similar al bucle for tradicional, pero este permite recorrer las propiedades de un objeto.
+
+Notación de puntos vs notación de corchetes: Dot notation (en lugar de los brackets va el punto). Tiene como ventaja que es facil de escribir. Ej: objeto.nombrePropiedad
+Bracket notation es similar a los arreglos. Ej: objeto ['nombrePropiedad']

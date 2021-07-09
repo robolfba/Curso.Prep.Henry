@@ -1,0 +1,5 @@
+prototype: en JS a diferencia de la Herencia Clasica (Programacion Orientada a Objetos), nos manejamos con prototipos que van a tomar los metodos pasados por sus "padres"
+mediante la Prototype Chain (lo entiendo como una cadena de herencia). Prototype es la propiedad que permite generar constructores de los cuales otras clases pueden 
+heredar propiedades y metodos. 
+
+Constructors (de Clases): un constructor de clase es como una plantilla que define propiedades y metodos comunes a otros objetos. 
